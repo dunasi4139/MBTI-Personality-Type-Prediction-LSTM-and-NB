@@ -1,5 +1,3 @@
-# MBTI Personality Type Prediction LSTM and NB
-
 <h1 align="center"> MBTI Personality Type Prediction LSTM and Naive Bayes</h1>
 This is the Jupyter Notebook and the Dataset for the mentioned Classification Predictive Modeling
 
